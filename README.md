@@ -6,24 +6,20 @@ I'm a **Cybersecurity enthusiast** and **IT student** currently pursuing a Bache
 
 ## Projects
 
-### [Project 1: SharePoint Site Management for BNY Mellon’s Early College Program](#)
-**Description:** Managed and organized 2 SharePoint sites to improve collaboration and information sharing. Implemented access controls, metadata tagging, and new folders for seamless navigation.  
-**Technologies Used:** SharePoint, Microsoft 365, PowerShell
+### [AR/VR Headset Project](#)
+**Description:** Supported in 3 courses using VR technology (Meta Quest 3) by creating the standard operating procedures, troubleshooting headset issues, and conducting surveys to improve the learning experience. 
+**Technologies Used:** Microsoft 365
 
-### [Project 2: Docker Container Optimization for ProMax Virtual Environment](#)
-**Description:** Installed and configured ProMax server on 8 blade servers, and integrated Docker containers to optimize resource utilization and deployment processes.  
-**Technologies Used:** Docker, Virtualization, Storage Area Networks (SAN)
-
-### [Project 3: Cybersecurity Research on Best Practices](#)
-**Description:** Conducted research on cybersecurity best practices, including threat analysis and vulnerability assessment, to assist in faculty research publications.  
-**Technologies Used:** Python, Wireshark, Virtual Machines
+### [Raspberry Pie Project](#)
+**Description:** Assisted with 2 Raspberry Pie projects across 4 courses by teaching networking fundamentals, guiding Python programming practices, and providing hands-on troubleshooting support. 
+**Technologies Used:** Python
 
 ---
 
 ## Skills
 
 - **Programming Languages:** Python, Java, SQL
-- **Cybersecurity Tools:** Wireshark, Metasploit, Nmap, Burp Suite
+- **Cybersecurity Tools:** Wireshark
 - **IT Tools:** SharePoint, Microsoft 365, Virtualization (VMware, Docker)
 
 ---
@@ -32,7 +28,6 @@ I'm a **Cybersecurity enthusiast** and **IT student** currently pursuing a Bache
 - Career Essentials in Cybersecurity by Microsoft and LinkedIn  
 - Career Essentials in System Administration by Microsoft and LinkedIn  
 - Students in Research by CITI Program  
-- **In Progress:** National Security Agency Certificate (Penn State)  
 - **In Progress:** Information Systems Security Certificate (Penn State)  
 
 ---
@@ -40,7 +35,8 @@ I'm a **Cybersecurity enthusiast** and **IT student** currently pursuing a Bache
 ## Roles
 
 ### Information Technology Intern | **Achieva** 
-- Spearheading the conversion of phone systems for 50+ locations from legacy systems to software-based solutions.
+- Converted phone systems in 45 locations from a legacy provider to a software solution by deploying new modems and facilitating the number porting process then took detailed photographs and 
+  documents of the IT environment.
 - Managing a fleet of computers, troubleshooting and upgrading hardware/software as needed.
 - Supporting help desk tickets, resolving technical issues, and contributing to various IT projects.
 
@@ -52,5 +48,9 @@ I'm a **Cybersecurity enthusiast** and **IT student** currently pursuing a Bache
 - Facilitating workshops, guest lectures, and networking opportunities for club members.
 
 ---
+
+## Resume
+
+
 
 Thank you for visiting my portfolio! Feel free to reach out if you want to collaborate on projects or discuss cybersecurity topics.
