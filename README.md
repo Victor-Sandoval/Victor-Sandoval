@@ -49,8 +49,4 @@ I'm a **Cybersecurity enthusiast** and **IT student** currently pursuing a Bache
 
 ---
 
-## Resume
-
-
-
 Thank you for visiting my portfolio! Feel free to reach out if you want to collaborate on projects or discuss cybersecurity topics.
