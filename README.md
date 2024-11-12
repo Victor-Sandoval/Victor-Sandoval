@@ -49,4 +49,13 @@ I'm a **Cybersecurity enthusiast** and **IT student** currently pursuing a Bache
 
 ---
 
+## Education
+
+### The Pennsylvanian State University
+- Bachelor of Science in Information Technology (Cybersecurity Option)
+- Minor in Security and Risk Analysis
+- Certificate in Information Systems Security
+
+---
+
 Thank you for visiting my portfolio! Feel free to reach out if you want to collaborate on projects or discuss cybersecurity topics.
