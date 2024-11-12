@@ -7,11 +7,13 @@ I'm a **Cybersecurity enthusiast** and **IT student** currently pursuing a Bache
 ## Projects
 
 ### [AR/VR Headset Project](#)
-**Description:** Supported in 3 courses using VR technology (Meta Quest 3) by creating the standard operating procedures, troubleshooting headset issues, and conducting surveys to improve the learning experience. 
+**Description:** Supported in 3 courses using VR technology (Meta Quest 3) by creating the standard operating procedures, troubleshooting headset issues, and conducting surveys to improve the learning experience.
+
 **Technologies Used:** Microsoft 365
 
 ### [Raspberry Pie Project](#)
-**Description:** Assisted with 2 Raspberry Pie projects across 4 courses by teaching networking fundamentals, guiding Python programming practices, and providing hands-on troubleshooting support. 
+**Description:** Assisted with 2 Raspberry Pie projects across 2 courses by teaching networking fundamentals, guiding Python programming practices, and providing hands-on troubleshooting support.
+
 **Technologies Used:** Python
 
 ---
